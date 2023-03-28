@@ -1,0 +1,10 @@
+body,h1 {
+    background-color: yellow;
+    color:blue;
+    text-align:center;
+}
+p {
+    font-family:courier;
+    color:red;
+    font-size:22px;
+}
